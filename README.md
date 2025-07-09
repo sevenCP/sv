@@ -10,8 +10,8 @@
 - 2. config.py 우클릭 => 연결 프로그램 => 메모장 => UID_VALUE에 본인 UID 입력
 
 ## 2. 쿠폰 등록
-- coupon.txt에 원하는 쿠폰 입력 (쿠폰 구분은 한줄씩)
-#### 예시
+coupon.txt에 원하는 쿠폰 입력 (쿠폰 구분은 한줄씩)
+###### 예시
 입력을 원하는 쿠폰 3장 (coupon1, coupon2, coupon3)
 coupon.txt
 coupon1
