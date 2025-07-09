@@ -18,9 +18,7 @@ coupon.txt
 
 coupon1
 
-
 coupon2
-
 
 coupon3
 
