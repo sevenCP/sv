@@ -14,8 +14,14 @@ coupon.txt에 원하는 쿠폰 입력 (쿠폰 구분은 한줄씩)
 ###### 예시
 입력을 원하는 쿠폰 3장 (coupon1, coupon2, coupon3)
 coupon.txt
+
+
 coupon1
+
+
 coupon2
+
+
 coupon3
 
 
