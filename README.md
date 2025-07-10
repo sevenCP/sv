@@ -5,7 +5,7 @@
 # 사용 방법
 
 ## 1. UID  등록
-coupon.txt 맨 윗줄에 UID 작성
+coupon.txt 맨 윗줄에 UID 작성 (초기에 abcd로 작성되어있음)
 
 ## 2. 쿠폰 등록
 coupon.txt에 원하는 쿠폰 입력 (쿠폰 구분은 한줄씩)
