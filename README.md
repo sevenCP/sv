@@ -5,33 +5,16 @@
 # 사용 방법
 
 ## 1. UID  등록
-
-- 1. dist폴더로 이동
-- 2. config.py 우클릭 => 연결 프로그램 => 메모장 => UID_VALUE에 본인 UID 입력
+coupon.txt 맨 윗줄에 UID 작성
 
 ## 2. 쿠폰 등록
 coupon.txt에 원하는 쿠폰 입력 (쿠폰 구분은 한줄씩)
-###### 예시
-입력을 원하는 쿠폰 3장 (coupon1, coupon2, coupon3)
-coupon.txt
-
-
-coupon1
-
-coupon2
-
-coupon3
-
-
+세븐나이츠 리버스 갤러리 엑셀 다운로드 후 c열 속성 긁어서 붙여넣기하면됌.
 ## 3. main.exe 실행
 
-# 오류 발생 시 해결 방안
+# 오류 해결
+이제 UID 입력이 자유로워짐.(이전에는 내가 설정한  UID가 사용된듯)
 
-## 1. 본인의 크롬 버전과 driver 파일의 버전 차이로 인한 오류
-https://developer.chrome.com/docs/chromedriver/downloads?hl=ko
-해당 페이지에서 본인과 맞는 크롬 드라이버 설치후 기존 driver 폴더 내의 파일과 변경바람
 
-## 2. 그 외의 오류
-문의 바람
 
 
